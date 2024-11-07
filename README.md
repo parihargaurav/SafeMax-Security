@@ -3,7 +3,7 @@
 Welcome to the SafeMax Security landing page repository! This project showcases a dynamic and interactive landing page for SafeMax Security, designed with a focus on user experience and responsiveness.
 
 🚀 Live Demo
-Check out the live demo here: SafeMax Security Demo
+Check out the live demo here: (https://safe-max-security.vercel.app/)
 
 
 📑 Table of Contents
